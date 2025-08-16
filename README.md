@@ -13,8 +13,8 @@
 ---
 
 ### 📊 **Estadísticas de GitHub**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexanderDomingo&show_icons=true&theme=radical&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderDomingo&layout=compact&theme=radical&hide_border=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alex-domingo&show_icons=true&theme=radical&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alex-domingo&layout=compact&theme=radical&hide_border=true)  
 
 ---
 
